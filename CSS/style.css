@@ -1,0 +1,15 @@
+.btn{
+background: #000 ! important;
+color: #ffb20f !important;
+font-weight: 500 !important;
+margin: auto !important;
+}
+.mainOverlay{
+    background:linear-gradient( to right, #ffb20f, #000);
+    height: 100vh;
+    
+}
+.p-text{
+    font-size: 5rem;
+    margin: auto;
+}
